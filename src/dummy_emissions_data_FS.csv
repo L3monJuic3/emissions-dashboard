@@ -1,0 +1,251 @@
+Company,Year,Scope 1,Scope 2,Scope 3,Baseline Year,Net Zero Year,Interim Target Year,Interim Reduction %,Sector,Region,Ownership
+Climate Corp,2018,1822,1362,4380,2021,2050,,50,Mining,Asia-Pacific,Private
+Climate Corp,2019,1787,1336,4298,2021,2050,,50,Mining,Asia-Pacific,Private
+Climate Corp,2020,1753,1310,4215,2021,2050,,50,Mining,Asia-Pacific,Private
+Climate Corp,2021,1719,1285,4133,2021,2050,,50,Mining,Asia-Pacific,Private
+Climate Corp,2022,1684,1259,4050,2021,2050,,50,Mining,Asia-Pacific,Private
+Terra Corp,2018,1808,1480,3773,2021,2045,,40,Transport,Asia-Pacific,Private
+Terra Corp,2019,1774,1452,3702,2021,2045,,40,Transport,Asia-Pacific,Private
+Terra Corp,2020,1740,1424,3631,2021,2045,,40,Transport,Asia-Pacific,Private
+Terra Corp,2021,1706,1397,3560,2021,2045,,40,Transport,Asia-Pacific,Private
+Terra Corp,2022,1671,1369,3488,2021,2045,,40,Transport,Asia-Pacific,Private
+Green Solutions,2018,1963,,3344,2022,2050,2025,50,Utilities,Africa,Private
+Green Solutions,2019,1927,1359,3282,2022,2050,2025,50,Utilities,Africa,Private
+Green Solutions,2020,1890,1334,3220,2022,2050,2025,50,Utilities,Africa,Private
+Green Solutions,2021,1854,1308,3158,2022,2050,2025,50,Utilities,Africa,Private
+Green Solutions,2022,1818,1283,3097,2025,2050,2040,50,Utilities,Africa,Private
+Climate Solutions,2018,1610,334,4898,2021,2045,,30,Finance,Middle East,Public
+Climate Solutions,2019,1579,328,4805,2021,2045,,30,Finance,Middle East,Public
+Climate Solutions,2020,1549,322,4713,2021,2045,,30,Finance,Middle East,Public
+Climate Solutions,2021,1519,316,4621,2021,2045,,30,Finance,Middle East,Public
+Climate Solutions,2022,1488,309,4528,2021,2045,,30,Finance,Middle East,Public
+Global Solutions,2018,1154,1244,2817,2018,2050,,20,Mining,Middle East,Private
+Global Solutions,2019,1130,1219,2760,2018,2050,,20,Mining,Middle East,Private
+Global Solutions,2020,1107,1194,2704,2018,2050,,20,Mining,Middle East,Private
+Global Solutions,2021,1084,1169,2647,2018,2050,,20,Mining,Middle East,Private
+Global Solutions,2022,1061,1144,2591,2018,2050,,20,Mining,Middle East,Private
+Green Holdings,2018,2080,521,3118,2020,2035,2030,30,Chemicals,North America,Private
+Green Holdings,2019,2040,511,3058,2020,2035,2030,30,Chemicals,North America,Private
+Green Holdings,2020,2000,501,2999,2020,2035,2030,30,Chemicals,North America,Private
+Green Holdings,2021,1960,490,2939,2020,2035,2030,30,Chemicals,North America,Private
+Green Holdings,2022,1920,480,2879,2020,2035,2030,30,Chemicals,North America,Private
+Future Systems,2018,1294,483,3687,2019,2035,,,Mining,Latin America,Private
+Future Systems,2019,1269,474,3615,2019,2035,,,Mining,Latin America,Private
+Future Systems,2020,1243,464,3542,2019,2035,,,Mining,Latin America,Private
+Future Systems,2021,1218,455,3470,2019,2035,,,Mining,Latin America,Private
+Future Systems,2022,1192,445,3398,2019,2035,,,Mining,Latin America,Private
+Carbon Partners,2018,2642,408,4474,2021,2050,,40,Retail,Africa,Public
+Carbon Partners,2019,2592,400,4389,2021,2050,,40,Retail,Africa,Public
+Carbon Partners,2020,2542,392,4305,2021,2050,,40,Retail,Africa,Public
+Carbon Partners,2021,2493,385,4221,2021,2050,,40,Retail,Africa,Public
+Carbon Partners,2022,2443,377,4136,2021,2050,,40,Retail,Africa,Public
+Terra Enterprises,2018,1754,,3578,2019,2050,2030,,Mining,Africa,Private
+Terra Enterprises,2019,1720,,3508,2019,2050,2030,,Mining,Africa,Private
+Terra Enterprises,2020,1685,,3437,2019,2050,2030,,Mining,Africa,Private
+Terra Enterprises,2021,1651,,3367,2019,2050,2030,,Mining,Africa,Private
+Terra Enterprises,2022,1616,,3297,2019,2050,2030,,Mining,Africa,Private
+Green Partners,2018,1260,1271,3624,2022,2045,2025,30,Energy,Asia-Pacific,Public
+Green Partners,2019,1237,1247,3557,2022,2045,2025,30,Energy,Asia-Pacific,Public
+Green Partners,2020,1213,1224,3490,2022,2045,2025,30,Energy,Asia-Pacific,Public
+Green Partners,2021,1190,1200,3423,2022,2045,2025,30,Energy,Asia-Pacific,Public
+Green Partners,2022,1167,1177,3356,2022,2045,2025,30,Energy,Asia-Pacific,Public
+Global Holdings,2018,960,357,3888,2018,2040,,50,Technology,Latin America,Public
+Global Holdings,2019,940,349,3810,2018,2040,,50,Technology,Latin America,Public
+Global Holdings,2020,921,342,3732,2018,2040,,50,Technology,Latin America,Public
+Global Holdings,2021,902,335,3654,2018,2040,,50,Technology,Latin America,Public
+Global Holdings,2022,883,328,3576,2018,2040,,50,Technology,Latin America,Public
+Energy Industries,2018,1432,583,5080,2021,2035,2025,30,Mining,Latin America,
+Energy Industries,2019,1405,572,4984,2021,2035,2025,30,Mining,Latin America,
+Energy Industries,2020,1378,561,4888,2021,2035,2025,30,Mining,Latin America,
+Energy Industries,2021,1351,550,4793,2021,2035,2025,30,Mining,Latin America,
+Energy Industries,2022,1323,539,4697,2021,2035,2025,30,Mining,Latin America,
+Future Enterprises,2018,948,1198,2462,2022,2035,,20,Mining,North America,
+Future Enterprises,2019,930,1176,2416,2022,2035,,20,Mining,North America,
+Future Enterprises,2020,913,1154,2371,2022,2035,,20,Mining,North America,
+Future Enterprises,2021,895,1132,2325,2022,2035,,20,Mining,North America,
+Future Enterprises,2022,878,1110,2280,2022,2035,,20,Mining,North America,
+Terra Group,2018,2994,735,2026,2021,2035,2030,50,Chemicals,Europe,Public
+Terra Group,2019,2938,721,1988,2021,2035,2030,50,Chemicals,Europe,Public
+Terra Group,2020,2881,707,1950,2021,2035,2030,50,Chemicals,Europe,Public
+Terra Group,2021,2825,694,1912,2021,2035,2030,50,Chemicals,Europe,Public
+Terra Group,2022,2768,680,1873,2021,2035,2030,50,Chemicals,Europe,Public
+Energy Holdings,2018,1388,1075,3973,2019,2050,2030,30,Transport,Asia-Pacific,Public
+Energy Holdings,2019,1361,1054,3896,2019,2050,2030,30,Transport,Asia-Pacific,Public
+Energy Holdings,2020,1333,1032,3818,2019,2050,2030,30,Transport,Asia-Pacific,Public
+Energy Holdings,2021,1306,1011,3740,2019,2050,2030,30,Transport,Asia-Pacific,Public
+Energy Holdings,2022,1279,990,3662,2019,2050,2030,30,Transport,Asia-Pacific,Public
+Future Industries,2018,1564,1350,1867,2019,,,,Technology,Asia-Pacific,Public
+Future Industries,2019,1534,1324,1831,2019,,,,Technology,Asia-Pacific,Public
+Future Industries,2020,1503,1297,1794,2019,,,,Technology,Asia-Pacific,Public
+Future Industries,2021,1472,1271,1757,2019,,,,Technology,Asia-Pacific,Public
+Future Industries,2022,1441,1244,1721,2019,,,,Technology,Asia-Pacific,Public
+Blue Systems,2018,2759,1423,3660,2019,2050,2030,30,Steel,Africa,Private
+Blue Systems,2019,2705,1396,3589,2019,2050,2030,30,Steel,Africa,Private
+Blue Systems,2020,2650,1368,3517,2019,2050,2030,30,Steel,Africa,Private
+Blue Systems,2021,2596,1340,3445,2019,2050,2030,30,Steel,Africa,Private
+Blue Systems,2022,2542,1312,3373,2019,2050,2030,30,Steel,Africa,Private
+Sustain Corp,2018,2740,1113,3071,2018,2040,2030,20,Transport,Asia-Pacific,Public
+Sustain Corp,2019,2685,1090,3009,2018,2040,2030,20,Transport,Asia-Pacific,Public
+Sustain Corp,2020,2630,1068,2948,2018,2040,2030,20,Transport,Asia-Pacific,Public
+Sustain Corp,2021,2575,1046,2886,2018,2040,2030,20,Transport,Asia-Pacific,Public
+Sustain Corp,2022,2520,1023,2825,2018,2040,2030,20,Transport,Asia-Pacific,Public
+Eco Solutions,2018,2295,674,3009,2021,2045,,30,Transport,Latin America,Private
+Eco Solutions,2019,2252,661,2952,2021,2045,,30,Transport,Latin America,Private
+Eco Solutions,2020,2209,648,2895,2021,2045,,30,Transport,Latin America,Private
+Eco Solutions,2021,2166,636,2839,2021,2045,,30,Transport,Latin America,Private
+Eco Solutions,2022,2122,623,2782,2021,2045,,30,Transport,Latin America,Private
+Energy Partners,2018,1955,723,4747,2019,2045,2025,40,Technology,Europe,Public
+Energy Partners,2019,1917,709,4654,2019,2045,2025,40,Technology,Europe,Public
+Energy Partners,2020,1878,694,4560,2019,2045,2025,40,Technology,Europe,Public
+Energy Partners,2021,1840,680,4467,2019,2045,2025,40,Technology,Europe,Public
+Energy Partners,2022,1801,666,4374,2019,2045,2025,40,Technology,Europe,Public
+Eco Enterprises,2018,1863,1387,5091,2020,2045,,,Finance,North America,Public
+Eco Enterprises,2019,1827,1360,4993,2020,2045,,,Finance,North America,Public
+Eco Enterprises,2020,1792,1334,4896,2020,2045,,,Finance,North America,Public
+Eco Enterprises,2021,1756,1307,4798,2020,2045,,,Finance,North America,Public
+Eco Enterprises,2022,1720,1280,4700,2020,2045,,,Finance,North America,Public
+Climate Holdings,2018,1009,474,2564,2019,2035,,40,Retail,Asia-Pacific,Public
+Climate Holdings,2019,990,465,2514,2019,2035,,40,Retail,Asia-Pacific,Public
+Climate Holdings,2020,970,455,2463,2019,2035,,40,Retail,Asia-Pacific,Public
+Climate Holdings,2021,950,446,2413,2019,2035,,40,Retail,Asia-Pacific,Public
+Climate Holdings,2022,930,437,2363,2019,2035,,40,Retail,Asia-Pacific,Public
+Terra Partners,2018,2791,404,4838,2020,2040,2030,,Mining,Latin America,Private
+Terra Partners,2019,2737,396,4745,2020,2040,2030,,Mining,Latin America,Private
+Terra Partners,2020,2684,389,4652,2020,2040,2030,,Mining,Latin America,Private
+Terra Partners,2021,2630,381,4558,2020,2040,2030,,Mining,Latin America,Private
+Terra Partners,2022,2576,373,4465,2020,2040,2030,,Mining,Latin America,Private
+Global Systems,2018,,940,3912,2019,2045,,50,Mining,Africa,Private
+Global Systems,2019,,922,3836,2019,2045,,50,Mining,Africa,Private
+Global Systems,2020,2038,903,3759,2019,2045,,50,Mining,Africa,Private
+Global Systems,2021,1996,885,3682,2019,2045,,50,Mining,Africa,Private
+Global Systems,2022,1955,866,3605,2019,2045,,50,Mining,Africa,Private
+Future Solutions,2018,1080,758,2111,2022,2040,2025,20,Steel,Asia-Pacific,Public
+Future Solutions,2019,1060,744,2072,2022,2040,2025,20,Steel,Asia-Pacific,Public
+Future Solutions,2020,1040,730,2033,2022,2040,2025,20,Steel,Asia-Pacific,Public
+Future Solutions,2021,1020,716,1994,2022,2040,2025,20,Steel,Asia-Pacific,Public
+Future Solutions,2022,1000,702,1955,2022,2040,2025,20,Steel,Asia-Pacific,Public
+Blue Group,2018,2899,783,2165,2021,2050,,20,Chemicals,North America,Private
+Blue Group,2019,2844,768,2124,2021,2050,,20,Chemicals,North America,Private
+Blue Group,2020,2789,753,2083,2021,2050,,20,Chemicals,North America,Private
+Blue Group,2021,2735,739,2043,2021,2050,,20,Chemicals,North America,Private
+Blue Group,2022,2680,724,2002,2021,2050,,20,Chemicals,North America,Private
+Climate Partners,2018,2048,1389,2318,2021,2035,,20,Finance,Asia-Pacific,Private
+Climate Partners,2019,2010,1363,2274,2021,2035,,20,Finance,Asia-Pacific,Private
+Climate Partners,2020,1971,1337,2230,2021,2035,,20,Finance,Asia-Pacific,Private
+Climate Partners,2021,1933,1311,2187,2021,2035,,20,Finance,Asia-Pacific,Private
+Climate Partners,2022,1894,1284,2143,2021,2035,,20,Finance,Asia-Pacific,Private
+Energy Solutions,2018,3157,339,4978,2021,2045,,50,Technology,North America,Public
+Energy Solutions,2019,3098,332,4884,2021,2045,,50,Technology,North America,Public
+Energy Solutions,2020,3038,326,4790,2021,2045,,50,Technology,North America,Public
+Energy Solutions,2021,2979,320,,2021,2045,,50,Technology,North America,Public
+Energy Solutions,2022,2919,313,,2021,2045,,50,Technology,North America,Public
+Blue Industries,2018,864,1140,3161,2021,2045,2025,20,Energy,North America,Public
+Blue Industries,2019,848,1119,3102,2021,2045,2025,20,Energy,North America,Public
+Blue Industries,2020,832,1097,3042,2021,2045,2025,20,Energy,North America,Public
+Blue Industries,2021,816,1076,2983,2021,2045,2025,20,Energy,North America,Public
+Blue Industries,2022,799,1054,2923,2021,2045,2025,20,Energy,North America,Public
+Sustain Enterprises,2018,1254,626,1983,2022,2045,2025,20,Manufacturing,Europe,Public
+Sustain Enterprises,2019,1231,614,1947,2022,2045,2025,20,Manufacturing,Europe,Public
+Sustain Enterprises,2020,1208,603,1910,2022,2045,2025,20,Manufacturing,Europe,Public
+Sustain Enterprises,2021,1185,591,1873,2022,2045,2025,20,Manufacturing,Europe,Public
+Sustain Enterprises,2022,1162,580,1837,2022,2045,2025,20,Manufacturing,Europe,Public
+Carbon Holdings,2018,2148,1258,2769,2020,2050,,30,Transport,Middle East,Public
+Carbon Holdings,2019,2107,1234,2716,2020,2050,,30,Transport,Middle East,Public
+Carbon Holdings,2020,2066,1210,2663,2020,2050,,30,Transport,Middle East,Public
+Carbon Holdings,2021,2024,1185,2609,2020,2050,,30,Transport,Middle East,Public
+Carbon Holdings,2022,1983,1161,2556,2020,2050,,30,Transport,Middle East,Public
+Carbon Industries,2018,1388,790,3078,2018,2035,,40,Mining,Latin America,Public
+Carbon Industries,2019,1360,774,3016,2018,2035,,40,Mining,Latin America,Public
+Carbon Industries,2020,1332,758,2954,2018,2035,,40,Mining,Latin America,Public
+Carbon Industries,2021,1304,742,2893,2018,2035,,40,Mining,Latin America,Public
+Carbon Industries,2022,1276,726,2831,2018,2035,,40,Mining,Latin America,Public
+Blue Holdings,2018,2728,348,3562,2022,2035,2025,50,Energy,Asia-Pacific,Private
+Blue Holdings,2019,2677,342,3496,2022,2035,2025,50,Energy,Asia-Pacific,Private
+Blue Holdings,2020,2627,335,3430,2022,2035,2025,50,Energy,Asia-Pacific,Private
+Blue Holdings,2021,2576,329,3364,2022,2035,2025,50,Energy,Asia-Pacific,Private
+Blue Holdings,2022,2526,323,3299,2022,2035,2025,50,Energy,Asia-Pacific,Private
+Blue Solutions,2018,1974,659,2550,2021,2040,2030,20,Retail,Africa,Private
+Blue Solutions,2019,1937,646,2502,2021,2040,2030,20,Retail,Africa,Private
+Blue Solutions,2020,1900,634,2454,2021,2040,2030,20,Retail,Africa,Private
+Blue Solutions,2021,1863,622,2406,2021,2040,2030,20,Retail,Africa,Private
+Blue Solutions,2022,1825,609,2357,2021,2040,2030,20,Retail,Africa,Private
+Global Enterprises,2018,2725,410,2991,2022,2035,2030,30,Steel,Latin America,Private
+Global Enterprises,2019,2675,402,2936,2022,2035,2030,30,Steel,Latin America,Private
+Global Enterprises,2020,2624,395,2880,2022,2035,2030,30,Steel,Latin America,Private
+Global Enterprises,2021,2574,387,2825,2022,2035,2030,30,Steel,Latin America,Private
+Global Enterprises,2022,2524,380,2770,2022,2035,2030,30,Steel,Latin America,Private
+Carbon Systems,2018,2941,1177,3897,2018,2045,,30,Chemicals,Europe,Private
+Carbon Systems,2019,2882,1153,3819,2018,2045,,30,Chemicals,Europe,Private
+Carbon Systems,2020,2823,1129,3741,2018,2045,,30,Chemicals,Europe,Private
+Carbon Systems,2021,2764,1106,3663,2018,2045,,30,Chemicals,Europe,Private
+Carbon Systems,2022,2705,1082,3585,2018,2045,,30,Chemicals,Europe,Private
+Eco Partners,2018,2214,990,4750,2021,2050,2025,,Steel,Latin America,Private
+Eco Partners,2019,2172,971,4661,2021,2050,2025,,Steel,Latin America,Private
+Eco Partners,2020,2130,952,4571,2021,2050,2025,,Steel,Latin America,Private
+Eco Partners,2021,2089,934,4482,2021,2050,2025,,Steel,Latin America,Private
+Eco Partners,2022,2047,915,4392,2021,2050,2025,,Steel,Latin America,Private
+Future Corp,2018,2898,731,3504,2019,2035,2025,,Energy,Middle East,Public
+Future Corp,2019,2842,717,3436,2019,2035,2025,,Energy,Middle East,Public
+Future Corp,2020,2785,702,3367,2019,2035,2025,,Energy,Middle East,Public
+Future Corp,2021,2728,688,3298,2019,2035,2025,,Energy,Middle East,Public
+Future Corp,2022,2671,673,3229,2019,2035,2025,,Energy,Middle East,Public
+Blue Enterprises,2018,2951,1115,3561,2022,2035,,20,Retail,Latin America,Public
+Blue Enterprises,2019,2896,1094,3495,2022,2035,,20,Retail,Latin America,Public
+Blue Enterprises,2020,2842,1074,3429,2022,2035,,20,Retail,Latin America,Public
+Blue Enterprises,2021,2787,1053,3363,2022,2035,,20,Retail,Latin America,Public
+Blue Enterprises,2022,2733,1033,3298,2022,2035,,20,Retail,Latin America,Public
+Sustain Solutions,2018,1656,1237,4077,2022,2050,2025,40,Finance,Africa,Private
+Sustain Solutions,2019,1626,1214,4001,2022,2050,2025,40,Finance,Africa,Private
+Sustain Solutions,2020,1595,1191,3926,2022,2050,2025,40,Finance,Africa,Private
+Sustain Solutions,2021,1564,1168,3850,2022,2050,2025,40,Finance,Africa,Private
+Sustain Solutions,2022,1534,1146,3775,2022,2050,2025,40,Finance,Africa,Private
+Terra Solutions,2018,2607,1218,4733,2018,2040,,50,Steel,North America,Private
+Terra Solutions,2019,2554,1193,4638,2018,2040,,50,Steel,North America,Private
+Terra Solutions,2020,2502,1169,4543,2018,2040,,50,Steel,North America,Private
+Terra Solutions,2021,2450,1144,4449,2018,2040,,50,Steel,North America,Private
+Terra Solutions,2022,2398,1120,4354,2018,2040,,50,Steel,North America,Private
+Sustain Systems,2018,2868,1435,3478,2021,2035,2025,30,Manufacturing,Africa,Private
+Sustain Systems,2019,2814,1408,3413,2021,2035,2025,30,Manufacturing,Africa,Private
+Sustain Systems,2020,2760,1381,3347,2021,2035,2025,30,Manufacturing,Africa,Private
+Sustain Systems,2021,2706,1354,3282,2021,2035,2025,30,Manufacturing,Africa,Private
+Sustain Systems,2022,2651,1326,3216,2021,2035,2025,30,Manufacturing,Africa,Private
+Blue Partners,2018,2125,1233,4246,2021,2050,,,Mining,Asia-Pacific,Public
+Blue Partners,2019,2085,1210,4166,2021,2050,,,Mining,Asia-Pacific,Public
+Blue Partners,2020,2045,1187,4086,2021,2050,,,Mining,Asia-Pacific,Public
+Blue Partners,2021,2005,1164,4006,2021,2050,,,Mining,Asia-Pacific,Public
+Blue Partners,2022,1964,1140,3925,2021,2050,,,Mining,Asia-Pacific,Public
+Eco Holdings,2018,2225,1472,4346,2018,2035,,50,Steel,North America,Public
+Eco Holdings,2019,2180,1442,4259,2018,2035,,50,Steel,North America,Public
+Eco Holdings,2020,2136,1413,4172,2018,2035,,50,Steel,North America,Public
+Eco Holdings,2021,2091,1383,4085,2018,2035,,50,Steel,North America,Public
+Eco Holdings,2022,2047,1354,3998,2018,2035,,50,Steel,North America,Public
+Sustain Holdings,2018,2965,680,1760,2019,2045,,,Manufacturing,Africa,Private
+Sustain Holdings,2019,2907,667,1726,2019,2045,,,Manufacturing,Africa,Private
+Sustain Holdings,2020,2848,653,1691,2019,2045,,,Manufacturing,Africa,Private
+Sustain Holdings,2021,2790,640,1656,2019,2045,,,Manufacturing,Africa,Private
+Sustain Holdings,2022,2732,626,1622,2019,2045,,,Manufacturing,Africa,Private
+Eco Group,2018,1273,1097,3739,2021,2035,2030,30,Finance,Asia-Pacific,Public
+Eco Group,2019,1249,1076,3669,2021,2035,2030,30,Finance,Asia-Pacific,Public
+Eco Group,2020,1225,1055,3598,2021,2035,2030,30,Finance,Asia-Pacific,Public
+Eco Group,2021,1201,1035,3528,2021,2035,2030,30,Finance,Asia-Pacific,Public
+Eco Group,2022,1176,1014,3457,2021,2035,2030,30,Finance,Asia-Pacific,Public
+Future Group,2018,999,588,3443,2018,2045,2030,20,Retail,Europe,Public
+Future Group,2019,979,576,3374,2018,2045,2030,20,Retail,Europe,Public
+Future Group,2020,959,564,3305,2018,2045,2030,20,Retail,Europe,Public
+Future Group,2021,939,552,3236,2018,2045,2030,20,Retail,Europe,Public
+Future Group,2022,919,540,3167,2018,2045,2030,20,Retail,Europe,Public
+Energy Enterprises,2018,2829,621,3973,2018,2035,,20,Finance,Asia-Pacific,Public
+Energy Enterprises,2019,2772,608,3893,2018,2035,,20,Finance,Asia-Pacific,Public
+Energy Enterprises,2020,2715,596,3814,2018,2035,,20,Finance,Asia-Pacific,Public
+Energy Enterprises,2021,2659,583,3734,2018,2035,,20,Finance,Asia-Pacific,Public
+Energy Enterprises,2022,2602,571,3655,2018,2035,,20,Finance,Asia-Pacific,Public
+Green Enterprises,2018,2104,936,2311,2022,2040,2025,50,Transport,Asia-Pacific,Public
+Green Enterprises,2019,2065,919,2268,2022,2040,2025,50,Transport,Asia-Pacific,Public
+Green Enterprises,2020,2026,901,2225,2022,2040,2025,50,Transport,Asia-Pacific,Public
+Green Enterprises,2021,1987,884,2182,2022,2040,2025,50,Transport,Asia-Pacific,Public
+Green Enterprises,2022,1949,867,2140,2022,2040,2025,50,Transport,Asia-Pacific,Public
+Climate Industries,2018,1479,451,1706,2019,2040,,50,Manufacturing,Europe,Private
+Climate Industries,2019,1450,443,1673,2019,2040,,50,Manufacturing,Europe,Private
+Climate Industries,2020,1421,434,1639,2019,2040,,50,Manufacturing,Europe,Private
+Climate Industries,2021,1392,425,1606,2019,2040,,50,Manufacturing,Europe,Private
+Climate Industries,2022,1363,416,1572,2019,2040,,50,Manufacturing,Europe,Private

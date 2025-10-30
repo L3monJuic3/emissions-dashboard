@@ -2,9 +2,9 @@
 import { mockApi } from './api/mockApi';
 
 // Toggle this to switch between mock and real API
-const USE_MOCK_API = true;
+const USE_MOCK_API = false;
 const API_URL = import.meta.env.VITE_API_URL || '/api';
-
+console.log(API_URL)
 // Fetch all companies
 export async function fetchAllCompanies() {
   if (USE_MOCK_API) {
