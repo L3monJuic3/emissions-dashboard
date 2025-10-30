@@ -8,13 +8,13 @@ This document presents a complete implementation of a dual-persona carbon emissi
 
 ### What's Built
 
-**Star schema database** (Cloudflare D1)
-**Automated ETL pipeline** (Node.js script)
-**REST API** (Cloudflare Worker, 8 endpoints)
-**React prototype** (Corporate + Investor views)
-**Annotated wireframes** (HTML + design rationale)
-**User management system** (Role-based access control)
-**Deployment strategy** (Cloudflare Pages + Workers)
+- **Star schema database** (Cloudflare D1)
+- **Automated ETL pipeline** (Node.js script)
+- **REST API** (Cloudflare Worker, 8 endpoints)
+- **React prototype** (Corporate + Investor views)
+- **Annotated wireframes** (HTML + design rationale)
+- **User management system** (Role-based access control)
+- **Deployment strategy** (Cloudflare Pages + Workers)
 
 ---
 
