@@ -5,7 +5,6 @@ import InvestorView from './InvestorView';
 
 function App() {
   const [activeView, setActiveView] = useState('corporate'); // 'corporate' or 'investor'
-  console.log(activeView);
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Header with View Toggle */}
