@@ -264,7 +264,7 @@ export async function fetchCompanyData(name) {
 
 ### Wireframes Delivered
 
-- `Figma wire frame`(https://www.figma.com/design/5tmmPGdhDOwZpa8hnUqWtw/Verandix-Emissions-Wireframe?node-id=0-1&t=xM8KtFHutgO8vGb5-1)
+- https://www.figma.com/design/5tmmPGdhDOwZpa8hnUqWtw/Verandix-Emissions-Wireframe?node-id=0-1&t=xM8KtFHutgO8vGb5-1
 
 
 **Key Design Decisions:**
