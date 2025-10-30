@@ -1,0 +1,38 @@
+# Cloudflare Worker Configuration
+# Learn more at: https://developers.cloudflare.com/workers/wrangler/configuration/
+
+name = "emissions-api"
+main = "src/index.js"
+compatibility_date = "2024-10-29"
+
+# D1 Database Binding
+[[d1_databases]]
+binding = "DB"
+database_name = "emissions-db"
+database_id = "3e738ef0-4325-43b3-b9b6-9a505bae4f1a"  # Replace with your D1 database ID from: wrangler d1 create emissions-db
+
+# Environment Variables (optional)
+[vars]
+# ENVIRONMENT = "production"
+
+# Production environment configuration
+[env.production]
+name = "emissions-api-production"
+
+# Development environment configuration
+[env.development]
+name = "emissions-api-dev"
+
+# Custom routes (uncomment and configure if using a custom domain)
+# [[routes]]
+# pattern = "api.yourdomain.com/*"
+# zone_name = "yourdomain.com"
+
+# Cron triggers (optional - for scheduled tasks)
+# [triggers]
+# crons = ["0 0 * * *"]  # Daily at midnight
+
+# Build configuration
+[build]
+command = ""
+# nodejs_compat = true  # Uncomment if you need Node.js compatibility
