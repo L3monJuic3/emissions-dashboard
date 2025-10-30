@@ -444,20 +444,7 @@ Basically just AWS complexity (Typically a big company platform/ micro-service a
 
 ## 8. Scalability Considerations
 
-### Current Capacity (MVP)
-
-| Metric | Current | Free Tier Limit |
-|--------|---------|-----------------|
-| Companies | 50 | N/A |
-| Users | <100 | N/A |
-| Requests/day | ~1,000 | 100,000 |
-| Database size | <10 MB | 5 GB |
-| API latency | <30ms | N/A |
-
-**Bottleneck:** None at MVP scale. Free tier handles 100x current traffic.
-
 ### Scaling to 10,000 Companies
-
 
 **API optimizations:**
 ```javascript
@@ -468,7 +455,7 @@ const cachedResponse = await cache.match(cacheKey);
 
 if (cachedResponse) return cachedResponse;
 
-// 2. Implement pagination
+// 2. Implement pagination - Very good for displaying large amounts of data on the UI fast
 const page = c.req.query('page') || 1;
 const limit = 100;
 const offset = (page - 1) * limit;
@@ -547,28 +534,7 @@ RDS PostgreSQL
 |----------|-----------|-----------|
 | **Cloudflare D1 (SQLite)** | Limited to 10 GB | Monitor usage, plan migration at 5 GB |
 | **No real-time updates** | Data refreshed nightly | Acceptable for emissions (not real-time) |
-| **Simple auth** | No granular permissions | Add more roles in v2 |
-| **Client-side routing** | SEO challenges | Use SSR (Cloudflare Pages Functions) later |
-
-### With More Time (Future Roadmap)
-
-**Phase 2 (Next Quarter):**
-1. **Export functionality** - Download CSV/PDF reports
-2. **Implement User roles** - Only display info relevant to user role
-4. **Advanced filters** - Region + sector combination
-
-**Phase 3 (6-12 months):**
-1. **Forecasting** - ML predictions of future emissions
-2. **Scenario modeling** - "What if we reduce Scope 2 by 20%?"
-3. **API for partners** - White-label integration
-4. **Mobile app** - React Native version
-5. **Real-time collaboration** - Multiple users editing targets
-
-**Phase 4 (12+ months):**
-1. **AI insights** - "Your Scope 3 is 2x sector average"
-2. **Benchmarking marketplace** - Anonymous peer data
-3. **Carbon offset trading** - Buy/sell offsets in-app
-4. **Regulatory reporting** - Auto-generate TCFD/CSRD reports
+| **No authentication** | No granular permissions | Add more roles in v2 |
 
 ### Constraints Acknowledged
 
