@@ -1,4 +1,4 @@
-# Verdandix Emissions Dashboard
+# Verdantix Emissions Dashboard
 ## Complete Technical Documentation
 ---
 
