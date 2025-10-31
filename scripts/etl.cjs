@@ -30,7 +30,6 @@ function sqlEscape(str) {
 }
 
 // Step 1: Read and parse CSV
-console.log('📖 Reading CSV file...');
 const csvContent = fs.readFileSync(CSV_FILE, 'utf-8');
 const lines = csvContent.split('\n').filter(line => line.trim());
 const headers = lines[0].split(',').map(h => h.trim().replace(/\r/g, ''));
@@ -138,14 +137,14 @@ try {
   });
 
 } catch (error) {
-  console.error('\n❌ ETL failed:', error.message);
-  console.log('\n💡 SQL file saved at:', sqlFile);
+  console.error('\n ETL failed:', error.message);
+  console.log('\n SQL file saved at:', sqlFile);
   console.log('You can inspect it to see what went wrong.\n');
   process.exit(1);
 }
 
-console.log('\n🎉 All done! Your data is in D1.');
-console.log(`\n📊 Summary:`);
+console.log('\n All done! Your data is in D1.');
+console.log(`\n Summary:`);
 console.log(`   - Companies: ${companies.size}`);
 console.log(`   - Emissions records: ${rows.length}`);
 console.log(`   - Database: ${DB_NAME}\n`);
